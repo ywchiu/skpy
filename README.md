@@ -1,5 +1,10 @@
 # Python 與金融數據分析與應用實戰
 
+- 20211214
+
+https://colab.research.google.com/drive/1rQRt3LdXwrA7nsRSjdz9A0DmcN0ojvgI?usp=sharing
+
+
 ## 課前須知
 
 - Colab
